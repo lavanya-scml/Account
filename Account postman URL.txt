@@ -1,6 +1,0 @@
-Welcome - http://localhost:9000/api/account
-Get all - http://localhost:9000/api/account/all
-Get ById - http://localhost:9000/api/account/101
-Post - http://localhost:9000/api/account/
-Put - http://localhost:9000/api/account/101
-Delete - http://localhost:9000/api/account/101
